@@ -1,2 +1,1 @@
-# Kasasa
-Code Review
+#   Sample Bank Loan Project
